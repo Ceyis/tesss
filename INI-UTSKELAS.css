@@ -1,0 +1,353 @@
+* {padding: 0; margin: 0}
+
+.PUTIgal {width: 1180px; height: 1998px;
+	margin:auto; background-color: white;}
+.ABU {width: 1180px; margin:auto; background-color: gray;}
+.PUTIPP {
+    width: 1180px;
+    height: 840px;
+    margin: auto;
+    background-color: white;
+}
+
+
+.ITAM3 {
+    width: 1180px;
+    margin: auto;
+    background-color: black;
+    height: 356px;
+    font-size: 30px;
+    text-align: center;
+}
+
+
+/* ini css header */
+/* gambar */
+menu li a {color: black; text-decoration: none;}
+
+header .kiri img {width: 108px; height: 39px; 
+	margin-top: 15px; float:left; 
+	/*border radius untuk bulat| border-radius: 50px*/}
+
+/* menu */
+header .kanan menu { color: black; font-size: 15px;float:right;
+	 margin-top: 10px; margin-bottom: 0px; margin-left: 90px;}
+
+.kanan menu nav img {width: 40px; height: 40px; margin-top: 0px;}
+
+nav ul li {float: left; list-style: none; 
+	background: #FFFFFF;
+	}
+	
+nav ul li  a {margin-right: 15px;
+	text-decoration: none;
+	padding: 3px 15px;
+	}
+
+nav ul li ul {display: none;}
+
+nav ul li:hover > ul {display: block;}
+
+nav {position: relative;
+background: #FFFFFF;
+height: 40px;
+line-height: 40px;}
+
+nav ul li ul {position: absolute;}
+
+nav ul li ul li {float: none;
+position: relative;}
+/*berhubungan sm top right buttom*/
+
+nav ul li:hover {background: white;}
+nav ul li a:hover {color: black;}
+
+nav ul ul ul {Left: 100%;
+	top: 0;
+	width: 200px;}
+
+/* PENUTUTUP menuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu + HEADER */
+
+/* GALERIiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii */
+
+ .gal1BIG .foto img {margin-top: 0px; width: 1180px; 
+	height: 504px;}
+
+ .gal1TIGA .foto {float: left; margin-top: 25px;
+	padding-right: 26px; position: relative;}
+ .gal1TIGA .foto img {width: 367px; height: 310px;}
+
+.gal1BIG .foto1 .keterangan1 a {
+	display: block;
+    font-size: 25px;
+    bottom: 214px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 7px;
+    position: relative;
+}
+
+.gal1TIGA .foto .keterangan a {
+	display: block; position: absolute;
+	font-size: 25px; top: 160px; left: 15%; right: 25%; 
+	color: white; text-align: center; text-decoration: none; 
+	font-size: 18px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	padding: 7px;
+}
+
+
+/* GALERIiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii1TUTUP */
+
+/* GALERIIIIIIIIIIIIiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii2 */
+
+.foto1 img {width: 1180px;}
+
+.subjudul h1 { font-size: 30px; color: black; 
+	margin-bottom: 40px; margin-top: 395px;}
+
+.tombolKanan a img { float: right; margin-top: -80px; }
+
+
+.gal2TIGA .foto {float: left; margin-top: 25px;
+	padding-right: 26px; position: relative;}
+
+.gal2TIGA .foto img {width: 367px; height: 400px;}
+
+.gal2TIGA .foto .keterangan a {
+	display: block; position: absolute;
+	font-size: 25px; top: 160px; left: 15%; right: 25%; 
+	color: white; text-align: center; text-decoration: none; 
+	font-size: 18px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	padding: 7px;
+}
+
+
+
+/* GALERIIIIIIIIIIIIiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii2 TUTUPPP*/
+
+
+/* 33333333333 SECURE EXPRES CUSTOMER*/
+/* bacground pusiig
+.info { background-color:gainsboro; width: auto; height: 330px;
+	margin-top: -150px;} */
+
+.GRAY {
+	background: lightgrey; 
+	height: 460px;
+	text-align: center; 
+	margin-bottom: 60px;
+	}
+	
+
+.g3bul .foto img {
+	height: 500px; 
+	width: 67px;
+    height: 68px;
+    border-radius: 50px;
+    margin-left: 135px;
+    margin-right: 135px;
+	margin-top: 100px;}
+	
+.g3bul .tulisan img {
+	height: 500px; 
+	width: 250px;
+	height: 68px;
+	margin-left: 45px;
+	margin-right: 45px;
+	margin-top: 80px;}
+
+
+
+/* 33333333333 SECURE EXPRES CUSTOMER TUTUPPP*/
+
+/* profilll */
+
+.gambarPF {
+    width: 1180px;
+    height: 500px;
+}
+.profil{float: left;}
+.gambarPF h1 { text-decoration: none; margin-top: 150px;}
+.gambarPF img {width:450px; height:300px; float: right; 
+	margin-top: 130px;}
+
+
+.tombolViw img {float: left; width: 130px; height: auto; margin-top: 80px; }
+
+/* profilllTUTUPPP */
+
+
+
+.NewsUTS {
+    background: lightseagreen;
+    height: 238px;
+}
+
+.NewsUTS h1 {
+    width: 467px;
+    color: white;
+    margin-left: 45px;
+    padding-top: 30px;
+    float: left;
+}
+.NewsUTS p {
+    width: 467px;
+    color: white;
+    margin-left: 45px;
+    font-size: 24px;
+}
+.NewsUTS input {
+    background-color: lightseagreen;
+    border: none;
+    font-size: 21px;
+    float: left;
+    margin-top: 79px;
+    margin-left: 100px;
+    color: white;
+    border-bottom: 1px solid white;
+}
+.NewsUTS img {
+    float: left;
+    margin-top: 66px;
+    border-bottom: 1px solid white;
+}
+
+
+
+/* testimoniiiiiiiiiiiiiiiiii  */
+
+.komen {
+    background: lightgrey;
+    height: 1291px;
+    font-size: 30px;
+    text-align: center;
+    margin: auto;
+}
+.testi .foto img {width: 367px; height: 276px;}
+
+/*UTS trend */
+
+.TrendiUTS {
+    margin: auto;
+}
+
+.TrendiUTS img {
+    width: ;
+}
+
+.TrendiUTS h2 {
+    margin-right: 797px;
+    margin-top: 65px;
+}
+
+.gaye {
+   
+}
+
+.TrendiUTS .satu {
+    margin-right: 839px;
+    width: auto;
+   
+    border-radius: 10px;
+    width: auto;
+    margin-top: 20px;
+}
+
+.TrendiUTS .dua {
+    margin-right: -474px;
+    margin-top: -330px;
+  
+    border-radius: 10px;
+}
+
+.TrendiUTS .tiga {
+    margin-right: 845px;
+  
+    border-radius: 10px;
+}
+
+.TrendiUTS .empat {
+    margin-right: -469px;
+    margin-top: -327px;
+    
+    border-radius: 10px;
+}
+
+
+
+
+
+/* footerr    .BG {background: blueviolet; width: 500px; height: 500px;} */
+
+
+.ITAM3 .gal1TIGA .foto {float: left; margin-top: 25px;
+	padding-right: 26px; position: relative;}
+.ITAM3 .gal1TIGA .foto img {width: 367px; height: 310px;}
+
+
+.ITAM3 .gal1TIGA .foto .keterangan a img {
+	display: block; position: absolute;
+	border-radius: 50px; 
+	width: 50px; height: 50px;
+	font-size: 25px;
+	color: white; text-align: center; text-decoration: none; 
+	font-size: 18px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.ATUy a img {margin-right: 40px;}
+.DUAy a img {margin-left: 60px; width: 70px;}
+.TIGy a img {margin-left: 120px; width: 70px;}
+
+.ATU a p {
+    margin-top: -93px;
+    margin-right: 61px;
+}
+.DUA a p {
+	margin-top: -41px;
+	margin-right: 40px;
+}
+.TIG a p {
+    margin-top: 15px;
+    margin-right: 22px;
+}
+
+.keterangan .ATUt a {
+    margin-top: -70px;
+    margin-left: 193px;
+    width: 82px;
+    background: lightcoral;
+}
+
+.keterangan .FORM {
+    margin-top: -219px;
+    margin-right: 139px;
+	line-height: 50px;
+}
+
+.ContactUTS {
+    background: white;
+
+}
+.ContactUTS p {
+    color: blue;
+}
+.ContactUTS h2 {
+    color: black;
+}
+.ContactUTS h3 {
+    position : relative;
+    text-align: center;
+    background: blue;
+    color:#FFFFFF;
+}
+
+
+footer { background: black; color:white; text-align:center;
+	font-size: 15px; line-height:40px;}
+footer a {color: white; text-decoration:none; } 
+
+
+
+
+
